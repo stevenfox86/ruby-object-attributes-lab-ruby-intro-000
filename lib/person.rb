@@ -5,9 +5,9 @@ class Person
   def name
     @name
   end
-  # def breed=(breed_name)
-  #   @breed = breed_name
-  # end
+  def job=(job_name)
+    @job = job_name
+  end
   # def breed
   #   @breed
   # end
